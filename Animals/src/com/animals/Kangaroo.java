@@ -17,4 +17,9 @@ public class Kangaroo extends Animal {
 		return "";
 	}
 
+	@Override
+	public Category getCategory() {
+		return Category.MAMMAL;
+	}
+
 }

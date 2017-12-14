@@ -17,4 +17,9 @@ public class Cat extends Animal {
 		return "meow";
 	}
 
+	@Override
+	public Category getCategory() {
+		return Category.MAMMAL;
+	}
+
 }
