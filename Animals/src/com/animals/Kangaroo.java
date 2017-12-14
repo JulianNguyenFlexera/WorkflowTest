@@ -9,7 +9,7 @@ public class Kangaroo extends Animal {
 
 	@Override
 	public boolean isMammal() {
-		return false;
+		return true;
 	}
 
 	@Override
