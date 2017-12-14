@@ -1,6 +1,6 @@
 package com.animals;
 
-public enum Catagory {
+public enum Category {
 	MAMMAL,
 	REPTILE,
 	BIRD,
